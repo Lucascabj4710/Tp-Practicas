@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-color:rgb(127, 255, 159);
+}
+
+img{
+    width:500px;
+    height: 480px;
+}
+
+#Elimperio{
+    background-color: blue;
+    color: rgb(221, 207, 15);
+}
+
+.Rebeldes{
+    background-color: red;
+    color: white;
+}
